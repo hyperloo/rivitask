@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rivitask/static/css/main.01608aa5.chunk.css",
-    "main.js": "/rivitask/static/js/main.e6dc0593.chunk.js",
-    "main.js.map": "/rivitask/static/js/main.e6dc0593.chunk.js.map",
+    "main.js": "/rivitask/static/js/main.7cd095b5.chunk.js",
+    "main.js.map": "/rivitask/static/js/main.7cd095b5.chunk.js.map",
     "runtime-main.js": "/rivitask/static/js/runtime-main.3b0e74f3.js",
     "runtime-main.js.map": "/rivitask/static/js/runtime-main.3b0e74f3.js.map",
     "static/js/2.dbfe45ad.chunk.js": "/rivitask/static/js/2.dbfe45ad.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3b0e74f3.js",
     "static/js/2.dbfe45ad.chunk.js",
     "static/css/main.01608aa5.chunk.css",
-    "static/js/main.e6dc0593.chunk.js"
+    "static/js/main.7cd095b5.chunk.js"
   ]
 }
